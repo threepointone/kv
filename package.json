@@ -1,6 +1,6 @@
 {
   "name": "@threepointone/kv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "json friendly, hash trie based, kv store",
   "main": "lib/index.js",
   "scripts": {
