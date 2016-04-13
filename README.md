@@ -24,7 +24,7 @@ let o = make()
 
 - `get(o, key)` : like `o[key]`
 
-- `set(o, key,value)` : like `{ ...o, [key]: value }`
+- `set(o, key, value)` : like `{ ...o, [key]: value }`
 
 - `del(o, key)` : like `{ ...o, [key]: undefined }`
 
