@@ -23,10 +23,13 @@ let o = make()
 ```
 
 - `get(o, key)` : like `o[key]`
+
 - `set(o, key,value)` : like `{ ...o, [key]: value }`
+
 - `del(o, key)` : like `{ ...o, [key]: undefined }`
 
 - `entries(o)`: returns an array of `[k, v]` entries
+
 - `toObject(o)` : returns a regular js object with `k:v` entries
 
 
